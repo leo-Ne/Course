@@ -1,1 +1,1 @@
-# learnCPP-C-primer-version5
+Here is a log which records the study on my own.
